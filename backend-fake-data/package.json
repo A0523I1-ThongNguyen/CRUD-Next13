@@ -1,0 +1,17 @@
+{
+  "name": "backend-fake-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "dev": "json-server --watch db.json --port 8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "json-server": "^1.0.0-beta.1"
+  }
+}
