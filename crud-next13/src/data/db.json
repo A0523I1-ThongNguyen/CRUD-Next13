@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "What is Lorem Ipsum2222222222222222",
+      "author": "Eric",
+      "content": "Contrary to popular belief.",
+      "id": 1
+    },
+    {
+      "title": "Why do we use it",
+      "author": "Eric",
+      "content": "Contrary to popular belief.",
+      "id": 2
+    },
+    {
+      "title": "Where does it come from2",
+      "author": "Eric",
+      "content": "Contrary to popular belief.",
+      "id": 3
+    },
+    {
+      "title": "hehe",
+      "author": "ee",
+      "content": "hee",
+      "id": 4
+    }
+  ]
+}
